@@ -1,6 +1,6 @@
 Here is a summary of my profile, thank you for your visit and have a nice day! :octocat:
 
-### Connect with me:
+Connect with me:
 
 [<img align="left" alt="MinionAttack | Online CV" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MinionAttack | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/youtube.svg" />][youtube]
