@@ -12,7 +12,7 @@ Connect with me:
 
 </br></br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MinionAttack&column=3&margin-w=5&margin-h=5&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MinionAttackmargin-w=5&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinionAttack&show_icons=true&count_private=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinionAttack&langs_count=10&layout=compact&theme=default)
