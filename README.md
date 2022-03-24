@@ -7,7 +7,7 @@ Connect with me:
 [<img align="left" alt="MinionAttack | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/linkedin.svg" />][linkedin]
 
 [website]: http://thetechnicallyweakguy.com/
-[medium]: https://medium.com/@MinionAttack
+[website]: https://medium.com/@MinionAttack
 [youtube]: https://youtube.com/playlist?list=PLZZMjfY7KWc8bghxw3J_baf35LGLIL2FO
 [linkedin]: https://www.linkedin.com/in/iago-alonso-alonso/
 </br></br>
