@@ -1,5 +1,7 @@
 Here is a summary of my profile, thank you for your visit and have a nice day! :octocat:
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MinionAttack?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 Connect with me:
 
 [<img align="left" alt="MinionAttack | Online CV" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
